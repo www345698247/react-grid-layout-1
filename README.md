@@ -18,17 +18,21 @@ RGL is React-only and does not require jQuery.
 
 ## Table of Contents
 
-- [Demos](#demos)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Responsive Usage](#responsive-usage)
-- [Providing Grid Width](#providing-grid-width)
-- [Grid Layout Props](#grid-layout-props)
-- [Responsive Grid Layout Props](#responsive-grid-layout-props)
-- [Grid Item Props](#grid-item-props)
-- [Contribute](#contribute)
-- [TODO List](#todo-list)
+- [React-Grid-Layout](#react-grid-layout)
+  - [Table of Contents](#table-of-contents)
+  - [Demos](#demos)
+      - [Projects based on React-Grid-Layout](#projects-based-on-react-grid-layout)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Usage without Browserify/Webpack](#usage-without-browserifywebpack)
+    - [Responsive Usage](#responsive-usage)
+    - [Providing Grid Width](#providing-grid-width)
+    - [Grid Layout Props](#grid-layout-props)
+    - [Responsive Grid Layout Props](#responsive-grid-layout-props)
+    - [Grid Item Props](#grid-item-props)
+  - [Contribute](#contribute)
+  - [TODO List](#todo-list)
 
 ## Demos
 
@@ -401,3 +405,5 @@ If you have a feature request, please add it as an issue or make a pull request.
 - [x] Min/max w/h per item
 - [ ] Resizable handles on other corners
 - [ ] Configurable w/h per breakpoint
+
+
